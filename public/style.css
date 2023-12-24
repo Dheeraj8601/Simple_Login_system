@@ -1,0 +1,32 @@
+/* body{
+    background-color : black;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+
+body{
+    font-family: 'Sevillana', sans-serif;
+    background-image: url('/assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+    
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+}
+
+form{
+    padding: 0em 3em;
+}
+
+#login.title>span{
+    font-size:.8em;
+}
+
+
+
+
