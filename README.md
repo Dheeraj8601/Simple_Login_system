@@ -1,1 +1,8 @@
-"# Simple_Login_system" 
+# Simple Login System
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- EJS
+
